@@ -1,0 +1,18 @@
+{
+  "name": "appium-testability-audit",
+  "version": "0.1.0",
+  "description": "Audits an Appium page source for testability: ranks every element by locator stability and reports what only a positional XPath can reach.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=23"
+  },
+  "scripts": {
+    "test": "node --test tests/*.spec.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "^6.0.3"
+  }
+}
