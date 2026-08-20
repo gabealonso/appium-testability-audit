@@ -1,0 +1,260 @@
+{
+    "platform": "android",
+    "source": "fixture: a Compose screen that did opt into testTagsAsResourceId",
+    "readAt": "2026-08-20T12:00:00.000Z",
+    "elements": [
+        {
+            "platform": "android",
+            "className": "android.widget.FrameLayout",
+            "resourceId": null,
+            "accessibilityId": null,
+            "label": null,
+            "text": null,
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.widget.LinearLayout",
+            "resourceId": null,
+            "accessibilityId": null,
+            "label": null,
+            "text": null,
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.widget.FrameLayout",
+            "resourceId": "android:id/content",
+            "accessibilityId": null,
+            "label": null,
+            "text": null,
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]"
+        },
+        {
+            "platform": "android",
+            "className": "androidx.compose.ui.platform.ComposeView",
+            "resourceId": null,
+            "accessibilityId": null,
+            "label": null,
+            "text": null,
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.view.View",
+            "resourceId": null,
+            "accessibilityId": null,
+            "label": null,
+            "text": null,
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.view.View",
+            "resourceId": null,
+            "accessibilityId": null,
+            "label": null,
+            "text": null,
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]/android.view.View[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.view.View",
+            "resourceId": "blue_banner",
+            "accessibilityId": "blue_banner",
+            "label": null,
+            "text": null,
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.widget.TextView",
+            "resourceId": "todo_app_title",
+            "accessibilityId": "todo_app_title",
+            "label": null,
+            "text": "Todo App",
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]/android.view.View[1]/android.widget.TextView[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.view.View",
+            "resourceId": "add_todo_row",
+            "accessibilityId": "add_todo_row",
+            "label": null,
+            "text": null,
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]"
+        },
+        {
+            "platform": "android",
+            "className": "android.widget.EditText",
+            "resourceId": "todo_input_field",
+            "accessibilityId": null,
+            "label": null,
+            "text": null,
+            "clickable": true,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.widget.EditText[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.view.View",
+            "resourceId": null,
+            "accessibilityId": "todo_input_field",
+            "label": null,
+            "text": null,
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.widget.EditText[1]/android.view.View[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.widget.TextView",
+            "resourceId": "todo_input_placeholder",
+            "accessibilityId": "todo_input_placeholder",
+            "label": null,
+            "text": "Add a new todo",
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.widget.EditText[1]/android.widget.TextView[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.view.View",
+            "resourceId": "add_todo_button",
+            "accessibilityId": null,
+            "label": null,
+            "text": null,
+            "clickable": true,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.view.View",
+            "resourceId": null,
+            "accessibilityId": "add_todo_button",
+            "label": null,
+            "text": null,
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.widget.TextView",
+            "resourceId": "add_button_text",
+            "accessibilityId": "add_button_text",
+            "label": null,
+            "text": "Add",
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.widget.TextView[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.widget.Button",
+            "resourceId": null,
+            "accessibilityId": null,
+            "label": null,
+            "text": null,
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.widget.Button[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.view.View",
+            "resourceId": "empty_todos_box",
+            "accessibilityId": "empty_todos_box",
+            "label": null,
+            "text": null,
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]/android.view.View[1]/android.view.View[3]"
+        },
+        {
+            "platform": "android",
+            "className": "android.widget.TextView",
+            "resourceId": "empty_todos_text",
+            "accessibilityId": "empty_todos_text",
+            "label": null,
+            "text": "No todos yet. Add one above!",
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]/android.view.View[1]/android.view.View[3]/android.widget.TextView[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.view.View",
+            "resourceId": "webview_button_container",
+            "accessibilityId": "webview_button_container",
+            "label": null,
+            "text": null,
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]/android.view.View[1]/android.view.View[4]"
+        },
+        {
+            "platform": "android",
+            "className": "android.view.View",
+            "resourceId": "webview_button",
+            "accessibilityId": null,
+            "label": null,
+            "text": null,
+            "clickable": true,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]/android.view.View[1]/android.view.View[4]/android.view.View[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.view.View",
+            "resourceId": null,
+            "accessibilityId": "webview_button",
+            "label": null,
+            "text": null,
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]/android.view.View[1]/android.view.View[4]/android.view.View[1]/android.view.View[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.widget.TextView",
+            "resourceId": "webview_button_text",
+            "accessibilityId": "webview_button_text",
+            "label": null,
+            "text": "Webview",
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]/android.view.View[1]/android.view.View[4]/android.view.View[1]/android.widget.TextView[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.widget.Button",
+            "resourceId": null,
+            "accessibilityId": null,
+            "label": null,
+            "text": null,
+            "clickable": false,
+            "displayed": true,
+            "xpath": "/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/androidx.compose.ui.platform.ComposeView[1]/android.view.View[1]/android.view.View[1]/android.view.View[4]/android.view.View[1]/android.widget.Button[1]"
+        }
+    ]
+}

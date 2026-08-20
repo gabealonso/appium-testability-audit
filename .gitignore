@@ -1,0 +1,13 @@
+node_modules/
+
+# Page sources read off a real device. A page source carries whatever was on the
+# screen at that moment: account names, e-mail addresses, draft text, internal app
+# identifiers. None of that belongs in a public repository, so raw dumps stay local
+# and only the curated fixtures under `fixtures/` are committed.
+*.xml
+screens/
+
+# Local agent configuration and machine-specific permissions.
+.claude/
+
+.DS_Store

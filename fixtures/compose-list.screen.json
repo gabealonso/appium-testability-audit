@@ -1,0 +1,117 @@
+{
+    "platform": "android",
+    "source": "fixture: a Compose list screen that has not opted into testTagsAsResourceId",
+    "readAt": "2026-08-20T12:00:00.000Z",
+    "elements": [
+        {
+            "platform": "android",
+            "className": "android.widget.Button",
+            "resourceId": "com.example.app:id/add_todo_button",
+            "accessibilityId": "add_todo_button",
+            "label": null,
+            "text": "Add",
+            "clickable": true,
+            "displayed": true,
+            "xpath": "//android.widget.Button[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.widget.EditText",
+            "resourceId": null,
+            "accessibilityId": "todo_input_field",
+            "label": null,
+            "text": null,
+            "clickable": true,
+            "displayed": true,
+            "xpath": "//android.widget.EditText[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.widget.TextView",
+            "resourceId": "com.example.app:id/row_title",
+            "accessibilityId": null,
+            "label": null,
+            "text": "Buy milk",
+            "clickable": false,
+            "displayed": true,
+            "xpath": "//android.widget.TextView[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.widget.TextView",
+            "resourceId": "com.example.app:id/row_title",
+            "accessibilityId": null,
+            "label": null,
+            "text": "Walk the dog",
+            "clickable": false,
+            "displayed": true,
+            "xpath": "//android.widget.TextView[2]"
+        },
+        {
+            "platform": "android",
+            "className": "android.widget.TextView",
+            "resourceId": "com.example.app:id/row_title",
+            "accessibilityId": null,
+            "label": null,
+            "text": "Buy milk",
+            "clickable": false,
+            "displayed": true,
+            "xpath": "//android.widget.TextView[3]"
+        },
+        {
+            "platform": "android",
+            "className": "android.view.View",
+            "resourceId": null,
+            "accessibilityId": "blue_banner",
+            "label": null,
+            "text": null,
+            "clickable": false,
+            "displayed": true,
+            "xpath": "//android.view.View[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.view.View",
+            "resourceId": null,
+            "accessibilityId": "todo_app_title",
+            "label": null,
+            "text": null,
+            "clickable": false,
+            "displayed": true,
+            "xpath": "//android.view.View[2]"
+        },
+        {
+            "platform": "android",
+            "className": "android.view.View",
+            "resourceId": null,
+            "accessibilityId": "add_todo_row",
+            "label": null,
+            "text": null,
+            "clickable": false,
+            "displayed": true,
+            "xpath": "//android.view.View[3]"
+        },
+        {
+            "platform": "android",
+            "className": "android.widget.ImageView",
+            "resourceId": null,
+            "accessibilityId": null,
+            "label": null,
+            "text": null,
+            "clickable": true,
+            "displayed": true,
+            "xpath": "//android.widget.FrameLayout[2]/android.widget.ImageView[1]"
+        },
+        {
+            "platform": "android",
+            "className": "android.widget.ImageView",
+            "resourceId": null,
+            "accessibilityId": null,
+            "label": null,
+            "text": null,
+            "clickable": true,
+            "displayed": true,
+            "xpath": "//android.widget.FrameLayout[2]/android.widget.ImageView[2]"
+        }
+    ]
+}
